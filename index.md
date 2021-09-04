@@ -1,4 +1,7 @@
-Here is a list of why Josh is a chill dude you want to be friends with.
-1. He is pretty easy to entertain
-2. He is pretty good at maintaining a conversation well.
-3. There are no limits to who he'd want to befriend, as long as you aren't a jerk.
+# Joshua Moore's First CS193 Homework
+
+My Favorite Things About CS193 (As Of Now)
+
+-The instructors seem genuinely really nice, laidback, and funny, which are the kind of people I tend to like, not only as instructors, but as people in general.
+-The class has air conditioning. (Yes, I DO think having cool air is worth praising. I have math lectures three times a week.)
+-The class as a whole manages to seem useful for my coding ability while still being a really chill (pun completely intended) class to attend. It is a nice change of pace compared to some of my other, slightly more tense, classes, and I really appreciate it for that.
